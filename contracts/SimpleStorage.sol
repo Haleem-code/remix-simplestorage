@@ -9,6 +9,7 @@ mapping (string => uint256)public nameToFavoriteNumber;
     struct People{
       uint256 favoriteNumber;
       string name;
+      
     }
 
 
